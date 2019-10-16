@@ -1,6 +1,12 @@
 # Gimbal Project
 
-此 Repo 为稳定器小组的仿真文件
+此 Repository 为稳定器小组的仿真文件仓库，共有两个分支 - 主分支 master 和开发分支 dev.
+
+在开发过程中请使用开发分支 dev
+
+```
+git checkout dev
+```
 
 ## 使用方式
 
